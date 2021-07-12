@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0/1600774582457?e=1628121600&v=beta&t=HN2xs8iRv7SQr4RlzzSs1KrRhnC0CpUfD1K40jqxYWc)](https://bharathipravallika.github.io)
+![alt text](https://bharathipravallika.github.io/BharathiPravallika/learning.png)
+
 <h1 align="center">Hi 👋, I'm Bharathi pravallika S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
