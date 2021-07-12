@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://bharathipravallika.github.io/BharathiPravallika/learning.png)
-
+<p align="center">
+  <img src="https://bharathipravallika.github.io/BharathiPravallika/learning.png" alt="bharathipravallika.github.io"/>
+</p>
 <h1 align="center">Hi 👋, I'm Bharathi pravallika S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
