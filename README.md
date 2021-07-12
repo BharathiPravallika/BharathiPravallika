@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://bharathipravallika.github.io/BharathiPravallika/learning.png" alt="bharathipravallika.github.io"/>
+  <img src="https://bharathipravallika.github.io/BharathiPravallika/learn.png" alt="bharathipravallika.github.io"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Bharathi pravallika</h1>
