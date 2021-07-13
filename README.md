@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathipravallika&label=Profile%20views&color=0e75b6&style=flat" alt="bharathipravallika" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathipravallika" alt="bharathipravallika" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathipravallika&theme=onedark" alt="bharathipravallika" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sbpravallika" target="blank"><img src="https://img.shields.io/twitter/follow/sbpravallika?logo=twitter&style=for-the-badge" alt="sbpravallika" /></a> </p>
 
